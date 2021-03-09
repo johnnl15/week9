@@ -18,4 +18,4 @@ Run my script to load in ucsc genome browser [bigwig](myATACseqbwjob.sh).
 
 I then upload to [cyverse](Cyverse.png). 
 
-Here is the data on ucsc browser [atac](D. melanogaster dm6 chr2L/1988549-2232756 UCSC Genome Browser v410.pdf). 
+Here is the data on ucsc browser [atac](D.melanogaster.pdf). 
