@@ -1,10 +1,10 @@
 I ran Deseq2 with this script [deseq2](Deseq2.R) utilizing the following input files [fly counts](fly_counts_2.txt) and [shortRNAseq](shortRNAseq.txt). The following are the published quality control and heatmaps: 
 
-[histogram](plotHist.pdf)  n\    
-[Dispersion](plotDispEsts.pdf) n\
-[MA](plotMA.pdf) n\
-[heatmap](Heatmap2.pdf) n\
-[PCA](PCA.pdf) n\
+[histogram](plotHist.pdf)      
+[Dispersion](plotDispEsts.pdf)  
+[MA](plotMA.pdf)  
+[heatmap](Heatmap2.pdf)  
+[PCA](PCA.pdf)  
 
 I will make a prefix list:
 
